@@ -1,4 +1,4 @@
-# Your Project's Name
+# Hong Yih's ePortfolio
 
 My project is about building a future-ready and job-ready e-Portfolio for myself. Why is an e-Portfolio important you may ask, well, its because an e-Portfolio allows someone to not only showcase what they have done in the past, but also a good representation of how they present it. Hence, I want to build an e-Portfolio to be future-ready and gain some learning experiences from it.
  
